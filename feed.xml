@@ -5,7 +5,7 @@
 		<title>Recent Announcements</title>
 		<description>The AWS Cloud platform expands daily. Learn about announcements, launches, news, innovation and more from Amazon Web Services.</description>
 		<managingEditor>aws@amazon.com (Amazon Web Services)</managingEditor>
-		<lastBuildDate>Tue, 25 Feb 2025 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 07:00:00 GMT</lastBuildDate>
 		<pubDate>Tue, 25 Feb 2025 05:09:01 GMT</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -927,9 +927,9 @@
 		</item>
 		<item>
 			<guid isPermaLink="false">6b6d43e4204ea19d325bd80dedba4da2f67cf6d0</guid>
-			<title>Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations</title>
+			<title>Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations Test2</title>
 			<description>&lt;p&gt;Contact Lens now enables businesses to send automatic email notifications to agents when their contacts are evaluated, so they can review the evaluations and improve their performance. Managers can create rules to send emails based on specific evaluation criteria. For example, you can set up automatic notifications for agents who receive evaluation scores below 50%, ensuring prompt attention to performance opportunities. Managers can also personalize email content based on performance levels — whether recognizing top performers or providing constructive guidance for improvement areas.&lt;br&gt; &lt;br&gt; This feature is available in all regions where Contact Lens performance evaluations are already available. To learn more, please visit our &lt;a href="https://docs.aws.amazon.com/connect/latest/adminguide/contact-lens-rules-email.html" target="_blank"&gt;documentation&lt;/a&gt; and our &lt;a href="https://aws.amazon.com/connect/contact-lens/" target="_blank"&gt;webpage&lt;/a&gt;. For information about Contact Lens pricing, please visit our &lt;a href="https://aws.amazon.com/connect/pricing/" target="_blank"&gt;pricing page&lt;/a&gt;.&lt;/p&gt;</description>
-			<pubDate>Tue, 25 Feb 2025 06:59:00 GMT</pubDate>
+			<pubDate>Tue, 25 Feb 2025 07:00:00 GMT</pubDate>
 			<category>general:products/amazon-connect,marketing:marchitecture/business-productivity</category>
 			<author>aws@amazon.com</author>
 			<link>https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations</link>
