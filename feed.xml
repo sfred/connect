@@ -8,14 +8,14 @@
       <atom:link href="https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.xml.rss"
                  rel="self"
                  type="application/rss+xml"/>
-      <lastBuildDate>Tue, 25 Feb 2025 01:19:50 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 25 Feb 2025 05:19:50 GMT</lastBuildDate>
       <item>
-         <title>Agent performance evaluations dashboard</title>
+         <title>Agent performance evaluations dashboard Test</title>
          <link>https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.html</link>
          <description>You can use the agent performance evaluation dashboard to view aggregations of
                     agent performance, and insights across cohorts of agents over time. For more
                     information, see &lt;a href="https://docs.aws.amazon.com/connect/latest/adminguide/agent-performance-evaluation-dashboard.html"&gt;Agent performance evaluations dashboard&lt;/a&gt;. </description>
-         <pubDate>Mon, 25 Feb 2025 05:00:00 GMT</pubDate>
+         <pubDate>Mon, 25 Feb 2025 05:19:50 GMT</pubDate>
          <guid isPermaLink="false">https://docs.aws.amazon.com/connect/latest/adminguide/#Agent_performance_evaluations_dashboard_2025-02-10</guid>
       </item>
       <item>
