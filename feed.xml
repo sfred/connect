@@ -5,7 +5,7 @@
 	<atom:link href="https://aws.amazon.com/blogs/contact-center/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://aws.amazon.com/blogs/contact-center/</link>
 	<description>Just another Amazon Web Services site</description>
-	<lastBuildDate>Tue, 25 Feb 2025 06:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 07:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -13,11 +13,11 @@
 	1	</sy:updateFrequency>
 	
 	<item>
-		<title>Enterprise Connect 2025: Your guide to AWS sessions on AI and CX innovation</title>
+		<title>Enterprise Connect 2025: Your guide to AWS sessions on AI and CX innovation Test1</title>
 		<link>https://aws.amazon.com/blogs/contact-center/enterprise-connect-2025-your-guide-to-aws-sessions-on-ai-and-cx-innovation/</link>
 		
 		<dc:creator><![CDATA[Lucie Baldwin]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 06:00:00 +0000</pubDate>
+		<pubDate>Tue, 25 Feb 2025 07:00:00 +0000</pubDate>
 				<category><![CDATA[Amazon Connect]]></category>
 		<category><![CDATA[Announcements]]></category>
 		<category><![CDATA[Foundational (100)]]></category>
